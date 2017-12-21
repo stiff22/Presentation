@@ -698,6 +698,7 @@ input[type="button"].button-primary {
 	color: #FFFFFF;
 }
 .button.button-primary:hover,
+.button.button-primary:text-align: center,
 a.button.button-primary:hover,
 button.button-primary:hover,
 input[type="submit"].button-primary:hover,
@@ -743,9 +744,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 	border: 0;
 	padding: 0;
 }
-.button.button-primary {
-	 text-align: center;
-}
+
 
 
 /** 
